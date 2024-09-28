@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center"> 
 
-<!--
-**GuthaPrathyush/GuthaPrathyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">My LeetCode<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/Gutha_Prathyush/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days badge of 2024" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Gutha_Prathyush?theme=dark&font=Saira&ext=heatmap" />  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
